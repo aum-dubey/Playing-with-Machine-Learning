@@ -1,2 +1,2 @@
 # Playing-with-Machine-Learning
-Just my curosity with Machine Learning : )
+Just my curiosity with Machine Learning : )
